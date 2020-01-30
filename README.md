@@ -6,8 +6,8 @@ Python 3
 
 
 ## 第三方库
-- [flask][1]:
-- [pytorch][2]
+- [flask]
+- [pytorch]
 
 
 ## 环境配置
